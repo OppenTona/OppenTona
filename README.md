@@ -1,16 +1,51 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm <a href="https://github.com/OppenTona" target="_blank">OppenTona</a> 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<!--
-**OppenTona/OppenTona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=29B6F6&center=true&vCenter=true&width=435&lines=Developer;Coding+Enthusiast;Always+Learning" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center"> 🚀 Welcome to my coding space! Here are some stats about my work.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr/>
+
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top" width="50%">
+        <h3 align="center">GitHub Stats</h3>
+        <div align="center">
+          <img src="https://github-readme-stats.vercel.app/api?username=OppenTona&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="OppenTona's GitHub stats" />
+          <br/>
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=OppenTona&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="OppenTona's Streak" />
+        </div>
+      </td>
+      <td valign="top" width="50%">
+        <h3 align="center">Top Languages</h3>
+        <div align="center">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OppenTona&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c9d1d9" alt="Top Langs" />
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<h3 align="center">🛠 Languages and Tools</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,react,nodejs,git,github,vscode,linux&perline=10" />
+</div>
+
+<br/>
+
+<h3 align="center">🧩 LeetCode Status</h3>
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/OppenTona?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+</div>
+
+<hr/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%"/>
+</p>
