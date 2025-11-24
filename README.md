@@ -27,7 +27,7 @@
 
 <h3 align="center">🛠 Languages and Tools</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,react,nodejs,git,github,vscode,linux,mysql&perline=14" />
+  <img src="https://skillicons.dev/icons?i=python,jupyter,gcolab,kotlin,androidstudio,firebase,java,netbeans,cpp,c,cs,vs&perline=12" />
 </div>
 
 <br/>
