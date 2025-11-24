@@ -21,7 +21,7 @@
         </div>
       </td>
       <td valign="top" width="50%">
-        <h3 align="center">Top Languages</h3>
+        <h3 align="center">Most Used Languages</h3>
         <div align="center">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OppenTona&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c9d1d9" alt="Top Langs" />
         </div>
@@ -34,15 +34,10 @@
 
 <h3 align="center">🛠 Languages and Tools</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,react,nodejs,git,github,vscode,linux&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,react,nodejs,git,github,vscode,linux&perline=12" />
 </div>
 
 <br/>
-
-<h3 align="center">🧩 LeetCode Status</h3>
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/OppenTona?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
-</div>
 
 <hr/>
 
