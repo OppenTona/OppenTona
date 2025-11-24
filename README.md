@@ -27,8 +27,9 @@
 
 <h3 align="center">🛠 Languages and Tools</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,jupyter,colab,kotlin,androidstudio,firebase,java,netbeans,cpp,c,cs,visualstudio&perline=14" />
+  <img src="https://skillicons.dev/icons?i=python,jupyter,colab,kotlin,androidstudio,firebase,java,netbeans,cpp,c,cs,visualstudio,vscode&perline=14" />
 </div>
+
 
 
 <br/>
