@@ -19,9 +19,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OppenTona&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="OppenTona's Streak" />
-</div>
 
 <br/>
 
