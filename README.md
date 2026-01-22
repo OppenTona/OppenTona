@@ -16,9 +16,10 @@
 🔍 I am currently strengthening my **research, problem-solving, and analytical skills** in AI-related fields.  
 
 📚 Previously, I studied at **Thuyloi University**, where I built a strong foundation in:
-- Efficient problem solving  
-- Time & resource optimisation  
-- Practical software development  
+- Creative
+- Apply generative AI
+- Time & resource optimisation
+- Math & Aglorithm  
 
 💡 I am especially interested in:
 - Machine Learning & Deep Learning  
