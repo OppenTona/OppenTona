@@ -11,8 +11,8 @@
 <hr/>
 
 ## 💫 About Me
-👋 My name is **Toan Nguyen The**.  
-🎓 I am an **IT student specialising in Artificial Intelligence** at the **University of Huddersfield (UK)**.  
+👋 My name is **Toan Nguyen The**. 
+🎓 I hold a First-Class Bachelor’s (Hons) degree in Applied Computing from the University of Huddersfield, UK.
 🔍 I am currently strengthening my **research, problem-solving, and analytical skills** in AI-related fields.  
 
 📚 Previously, I studied at **Thuyloi University**, where I built a strong foundation in:
