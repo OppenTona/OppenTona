@@ -12,19 +12,7 @@
 
 ## 💫 About Me
 - 👋 My name is **Toan Nguyen The**. 
-- 🎓 I hold a First-Class Bachelor’s (Hons) degree in Applied Computing from the University of Huddersfield, UK.
-- 🔍 I am currently strengthening my **research, problem-solving, and analytical skills** in AI-related fields.  
-
-📚 Previously, I studied at **Thuyloi University**, where I built a strong foundation in:
-- Creative
-- Apply generative AI
-- Time & resource optimisation
-- Math & Aglorithm  
-
-💡 I am especially interested in:
-- Machine Learning & Deep Learning  
-- Computer Vision  
-- AI-powered applications  
+- First-Class Computing graduate with hands-on machine learning experience, currently pursuing an MSc in Artificial Intelligence. Continuously developing my AI expertise through academic coursework, practical projects and professional certifications (Feel free to look at them below). I also have a background in cloud computing, Android and web development, and am open to opportunities across all IT fields, with a strong willingness to learn and take on new challenges.
 
 ---
 
