@@ -11,8 +11,7 @@
 <hr/>
 
 ## 💫 About Me
-- 👋 My name is **Toan Nguyen The**. 
-- First-Class Computing graduate with hands-on machine learning experience, currently pursuing an MSc in Artificial Intelligence. Continuously developing my AI expertise through academic coursework, practical projects and professional certifications (Feel free to look at them below). I also have a background in cloud computing, Android and web development, and am open to opportunities across all IT fields, with a strong willingness to learn and take on new challenges.
+My name is **Toan Nguyen The**. I'm First-Class Computing graduate with hands-on machine learning experience, currently pursuing an MSc in Artificial Intelligence. Continuously developing my AI expertise through academic coursework, practical projects and professional certifications (Feel free to look at them below). I also have a background in cloud computing, Android and web development, and am open to opportunities across all IT fields, with a strong willingness to learn and take on new challenges.
 
 ---
 
